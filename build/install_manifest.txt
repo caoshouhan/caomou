@@ -1,0 +1,5 @@
+/usr/local/bin/person
+/usr/local/include/PERSON/Student.h
+/usr/local/include/PERSON/Teacher.h
+/usr/local/include/PERSON/Person.h
+/usr/local/lib/libcalc.so

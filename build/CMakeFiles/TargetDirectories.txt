@@ -1,0 +1,7 @@
+/root/cmake/ku/build/CMakeFiles/person.dir
+/root/cmake/ku/build/CMakeFiles/edit_cache.dir
+/root/cmake/ku/build/CMakeFiles/rebuild_cache.dir
+/root/cmake/ku/build/CMakeFiles/list_install_components.dir
+/root/cmake/ku/build/CMakeFiles/install.dir
+/root/cmake/ku/build/CMakeFiles/install/local.dir
+/root/cmake/ku/build/CMakeFiles/install/strip.dir

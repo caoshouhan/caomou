@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/person.dir/src/Person.cpp.o CMakeFiles/person.dir/src/Student.cpp.o CMakeFiles/person.dir/src/Teacher.cpp.o CMakeFiles/person.dir/src/main.cpp.o -o person   -L/root/cmake/ku/lib  -Wl,-rpath,/root/cmake/ku/lib: -lcalc 
